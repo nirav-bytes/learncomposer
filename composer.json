@@ -1,0 +1,16 @@
+{
+    "name": "bytes-nirav/learncomposer",
+    "description": "for learning composer",
+    "autoload": {
+        "psr-4": {
+            "BytesNirav\\Learncomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nirav.dobariya",
+            "email": "nirav.dobariya@bytestechnolab.com"
+        }
+    ],
+    "require": {}
+}
